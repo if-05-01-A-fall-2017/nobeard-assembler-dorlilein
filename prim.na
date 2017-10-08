@@ -1,0 +1,33 @@
+"Please enter the first number:Please enter the second number: "
+
+inc 8
+
+#print1
+lit 0
+lit 30
+lit 32
+out 2
+
+#scan
+la 0 30
+la 0 36
+in 0
+
+#print2
+lit 31
+lit 30
+lit 32
+out 2
+
+#scan
+la 0 34
+la 0 40
+in 0
+
+la 0 40
+la 0 50
+
+#calculate
+
+
+halt
